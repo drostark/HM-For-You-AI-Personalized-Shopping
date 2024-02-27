@@ -1,5 +1,4 @@
 # HM-For-You-AI-Personalized-Shopping
-H&amp;M for You: AI-Personalized Shopping
 ![PDF 1](https://github.com/drostark/HM-For-You-AI-Personalized-Shopping/blob/5576b7d0b06f5620cddac86750280e9616656a11/images/capstone-project-starter-file-docx_Enhanced%20Product%20Recommendations-1.jpg)
 ![PDF 2](https://github.com/drostark/HM-For-You-AI-Personalized-Shopping/blob/5576b7d0b06f5620cddac86750280e9616656a11/images/capstone-project-starter-file-docx_Enhanced%20Product%20Recommendations-2.jpg)
 ![PDF 3](https://github.com/drostark/HM-For-You-AI-Personalized-Shopping/blob/5576b7d0b06f5620cddac86750280e9616656a11/images/capstone-project-starter-file-docx_Enhanced%20Product%20Recommendations-3.jpg)
