@@ -15,10 +15,10 @@
 ![PDF 14](https://github.com/drostark/HM-For-You-AI-Personalized-Shopping/blob/5576b7d0b06f5620cddac86750280e9616656a11/images/capstone-project-starter-file-docx_Enhanced%20Product%20Recommendations-14.jpg)
 # CITATION
 
-H&M. (2022). H&M Personalized Fashion Recommendations. Kaggle. https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data
+H&M. (2022). H&M Personalized Fashion Recommendations. Kaggle. https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
 
 # KAGGLE COMPETITION
-https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data
+https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
 
 # FULL PDF
 [View Full PDF](https://github.com/drostark/HM-For-You-AI-Personalized-Shopping/blob/5576b7d0b06f5620cddac86750280e9616656a11/capstone-project-starter-file-docx_Enhanced%20Product%20Recommendations.pdf)
